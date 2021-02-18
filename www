@@ -1,17 +1,9 @@
-<<<<<<< HEAD
-vikram 
-hi
+44
 
-<<<<<<< HEAD
-=======
-this is being edited<<<<<<< HEAD
-<<<<<<< HEADed
->>>>>>> d2a267a6b3fcc44c6932a6247fdf9029a96b7ffa
- hello 
-world welcome 
-=======
-this is srikanth
->>>>>>> b3ec0dd070f5cccb9b51332c8e28e89ce113d86f
-=======
-srinu
->>>>>>> dd2c77af600e0181fb6d399113b1f8b39715c731
+You can use git checkout <file> to check out the committed version of the file (thus discarding your changes), or git reset --hard HEAD to throw away any uncommitted changes for all files.
+
+﻿
+Share
+Improve this answer
+Follow
+
